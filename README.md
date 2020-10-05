@@ -2,7 +2,7 @@ my-first-blog
 =============
 projeto do tutorial de django girls - https://tutorial.djangogirls.org/pt/
 
-Requesitos:
+Requisitos:
 -----------
 * python 3.6 ou superior
 
