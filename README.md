@@ -20,6 +20,7 @@ $ source venv/bin/activate
 
 entre na pasta **my-first-blog** e execute os seguintes comandos
 ```console
+# pip install -r requirements.txt
 $ python manage.py migrate
 $ python manage.py runserver
 ```
